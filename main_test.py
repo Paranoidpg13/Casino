@@ -6,7 +6,6 @@ from tkinter import messagebox
 from collections import Counter
 
 
-import tkinter as tk
 
 class IntroPage(tk.Frame):
     def __init__(self, parent, controller):
